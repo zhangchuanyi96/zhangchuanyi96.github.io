@@ -1,3 +1,9 @@
+## Zhang Chuanyi (张传一)
+Ddoctoral candidate
+School of Computer Science and Engineering
+Nanjing University of Science and Technology
+Email:zhangchuanyi@njust.edu.cn
+
 ## About me
 
 I am a doctoral candidate at Nanjing University of Science and Technology. I major in Computer vision, specifically web-supervised fine-grained classification.
