@@ -1,7 +1,9 @@
 ## Zhang Chuanyi (张传一)
-Ddoctoral candidate
+
 School of Computer Science and Engineering
+
 Nanjing University of Science and Technology
+
 Email:zhangchuanyi@njust.edu.cn
 
 ## About me
