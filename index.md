@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/fzhchy1/zhangchuanyi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a doctoral candidate at Nanjing University of Science and Technology. I major in Computer vision, specifically web-supervised fine-grained classification.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### News
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
