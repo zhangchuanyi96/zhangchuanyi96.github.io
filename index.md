@@ -19,6 +19,6 @@ I am a doctoral candidate at Nanjing University of Science and Technology. I maj
 ## Publication
 *Web-Supervised Network with Softly Update-Drop Training for Fine-Grained Visual Classification*
 
-[@zhang2020soft]
+[zhang2020soft]
 
 
