@@ -10,6 +10,11 @@ Email:zhangchuanyi@njust.edu.cn
 
 I am a doctoral candidate at Nanjing University of Science and Technology. I major in Computer vision, specifically web-supervised fine-grained classification.
 
+## Research Interest
+
+Fine-grained Visual Classification	Learning from Noise	Deep Learning
+
+
 ## News
 
 - My paper, Data-driven Meta-set Based Fine-Grained Visual Recognition, is accepted by ACM MM 2020.
