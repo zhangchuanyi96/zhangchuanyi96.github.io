@@ -12,7 +12,7 @@ I am a doctoral candidate at Nanjing University of Science and Technology. I maj
 
 ## Research Interest
 
-Fine-grained Visual Classification	Learning from Noise	Deep Learning
+Fine-grained Visual Classification;	Learning from Noise; Deep Learning
 
 
 ## News
